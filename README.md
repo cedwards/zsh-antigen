@@ -1,5 +1,5 @@
-# zsh-antigen
-Bastille Template: zsh-antigen
+# cedwards/zsh-antigen
+Bastille Template: cedwards/zsh-antigen
 
 Fetch and apply this template with:
 
