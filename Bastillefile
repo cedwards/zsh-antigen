@@ -1,0 +1,5 @@
+INCLUDE https://github.com/cedwards/base
+CP usr /
+PKG zsh
+CMD /usr/bin/fetch -m https://git.io/antigen -o /usr/local/share/zsh/antigen.zsh
+CMD /usr/bin/chsh -s /usr/local/bin/zsh
